@@ -100,6 +100,8 @@
                                     <constraint firstItem="oWW-hz-NV2" firstAttribute="top" secondItem="BlI-uq-Y5L" secondAttribute="bottom" constant="10" id="JHe-dT-j3A"/>
                                     <constraint firstItem="oWW-hz-NV2" firstAttribute="leading" secondItem="PjP-Nc-CvA" secondAttribute="leading" constant="61" id="Tvc-Bh-pjF"/>
                                     <constraint firstItem="ubf-MM-wN6" firstAttribute="leading" secondItem="PjP-Nc-CvA" secondAttribute="leading" constant="61" id="cfY-Oe-IUs"/>
+                                    <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="oWW-hz-NV2" secondAttribute="trailing" constant="20" symbolic="YES" id="h1Q-Kc-aPn"/>
+                                    <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="ubf-MM-wN6" secondAttribute="trailing" constant="20" symbolic="YES" id="hvs-Uc-cg8"/>
                                     <constraint firstItem="BlI-uq-Y5L" firstAttribute="top" secondItem="ubf-MM-wN6" secondAttribute="bottom" constant="10" id="pwu-AE-rUK"/>
                                     <constraint firstItem="BlI-uq-Y5L" firstAttribute="centerX" secondItem="PjP-Nc-CvA" secondAttribute="centerX" id="wyh-Zu-3ea"/>
                                 </constraints>
@@ -127,6 +129,7 @@
                             <constraint firstItem="d7D-jB-bMY" firstAttribute="bottom" secondItem="Hhq-2F-eDr" secondAttribute="bottom" id="B4a-XR-nOm"/>
                             <constraint firstItem="J03-AT-0Al" firstAttribute="top" secondItem="Hhq-2F-eDr" secondAttribute="top" constant="10" id="Ev9-q0-M4X"/>
                             <constraint firstItem="J03-AT-0Al" firstAttribute="leading" secondItem="Hhq-2F-eDr" secondAttribute="leading" constant="61" id="JZr-H4-FK7"/>
+                            <constraint firstItem="Hhq-2F-eDr" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="J03-AT-0Al" secondAttribute="trailing" symbolic="YES" id="KoU-xl-7oe"/>
                             <constraint firstAttribute="bottom" secondItem="PjP-Nc-CvA" secondAttribute="bottom" id="O4S-zn-sWJ"/>
                             <constraint firstItem="PjP-Nc-CvA" firstAttribute="top" secondItem="hoc-4I-eJO" secondAttribute="bottom" constant="20" id="bUg-Ma-I79"/>
                             <constraint firstItem="PjP-Nc-CvA" firstAttribute="leading" secondItem="2zA-Ii-Njc" secondAttribute="leading" id="krd-Ix-cM1"/>
